@@ -7,6 +7,7 @@ public class Classe {
 		  System.out.println("anass");
 		  System.out.println("razine");
 		  System.out.println("razine");
+		  System.out.println("elias");
 
 	}
 
