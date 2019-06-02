@@ -13,6 +13,7 @@ public class Classe {
 		  System.out.println("cherkawi");
 		  System.out.println("saleh");
 		  System.out.println("zarwal");
+		  System.out.println("milod");
 
 	}
 
