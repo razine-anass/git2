@@ -12,6 +12,7 @@ public class Classe {
 		  System.out.println("sliman");
 		  System.out.println("cherkawi");
 		  System.out.println("saleh");
+		  System.out.println("zarwal");
 
 	}
 
