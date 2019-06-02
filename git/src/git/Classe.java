@@ -10,6 +10,7 @@ public class Classe {
 		  System.out.println("elias");
 		  System.out.println("hamou");
 		  System.out.println("sliman");
+		  System.out.println("cherkawi");
 
 	}
 
